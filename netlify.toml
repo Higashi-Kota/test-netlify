@@ -1,0 +1,5 @@
+[functions]
+  directory = "functions"
+[build]
+  command = "yarn build" # the command you run to build this file
+  publish = ".next" 
